@@ -1,0 +1,3 @@
+cd etc
+rm fstab
+write ./tmp.wic.7a7k95lu/fstab fstab
